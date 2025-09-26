@@ -25,5 +25,5 @@ Transform-Transition-HP/
 ✅ Best practices on structuring HTML + CSS.
 ✅ Handling hover states and animation timing.
 
-## ![Live Demo](https://github.com/user-attachments/assets/dfffdb03-f067-4961-8c58-f121a0ca9421)
+## 🌐 Live Demo
  👉 [Check it out](https://farzinizraf.github.io/Transform-Transition-Hp/)
