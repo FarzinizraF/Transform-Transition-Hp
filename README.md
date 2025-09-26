@@ -9,15 +9,6 @@ A simple practice project demonstrating CSS **transform** and **transition** eff
 - Uses images and fonts (in `img/` and `fonts/`)  
 - Fun visual presentation themed around Harry Potter  
 
-## 📂 Project Structure
-
-Transform-Transition-HP/
-│
-├── index.html
-├── style.css
-├── img/ ← images used in the project
-└── fonts/ ← custom font files
-
 
 🚀 What I Learned / Focus
 
