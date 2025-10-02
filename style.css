@@ -121,7 +121,7 @@ main {
       > .card-img {
         height: 760px;
         width: 356px;
-        margin-top: 10px;
+        margin: 10px;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -530,3 +530,4 @@ footer {
     }
   }
 }
+
