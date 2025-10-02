@@ -39,7 +39,7 @@ header {
     justify-content: space-between;
     align-items: center;
     > .search-bar {
-      width: 490px;
+      width: 510px;
       display: flex;
       justify-content: start;
       align-items: center;
@@ -528,6 +528,7 @@ footer {
     }
   }
 }
+
 
 
 
