@@ -276,8 +276,8 @@ main {
   align-items: center;
 
   > .char {
-    width: 450px;
-    height: 700px;
+    width: 350px;
+    height: 600px;
     position: relative;
     &:hover {
       > img {
@@ -528,4 +528,5 @@ footer {
     }
   }
 }
+
 
